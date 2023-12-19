@@ -17,5 +17,4 @@ def plot_superelipsa(a, b, m, n):
     plt.axis('equal')
     plt.show()
 
-# Przykładowe parametry: a=1, b=1, m=2, n=2
 plot_superelipsa(1, 1, 2, 0.5)
